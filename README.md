@@ -5,9 +5,10 @@ Axt is a tool I'm building to compare parser gem and `RubyVM::AST.parse` builtin
 
 
 ## Usage
-
+```
 git clone git@github.com:jonatas/axt.git
 cd axt
+```
 
 ## Development
 
